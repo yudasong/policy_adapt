@@ -1,0 +1,4 @@
+gym==0.14.0
+matplotlib
+mujoco_py==2.0.2.5
+seaborn
