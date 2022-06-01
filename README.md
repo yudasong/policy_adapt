@@ -1,4 +1,6 @@
-# Code for paper Provably Efficient Model-based Policy Adaptation
+# Code for the ICML 2020 paper Provably Efficient Model-based Policy Adaptation
+
+Link to the paper: [Provably Efficient Model-based Policy Adaptation](https://arxiv.org/abs/2006.08051)
 
 This code is partly based on  the [pytorch implementation of PPO](https://github.com/ikostrikov/pytorch-a2c-ppo-acktr-gail).
 
